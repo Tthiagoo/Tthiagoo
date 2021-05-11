@@ -42,7 +42,7 @@
 ## Github Stats :computer:
 
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=tthiago&show_icons=true&locale=en&theme=radical" alt="tthiago" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tthiagoo&theme=radical&layout=compact" alt="tthiago" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=tthiagoo&show_icons=true&locale=en&theme=radical" alt="tthiago" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthiagoo&theme=radical&layout=compact" alt="tthiago" /></p>
 
 
