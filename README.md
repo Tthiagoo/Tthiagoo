@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Petgram](https://github.com/Tthiagoo/Petgram)
 
-- 🌱 I’m currently learning **Typescript, NextJS, NodeJS, SOLID, TypeORM**
+- 🌱 I’m currently learning **Typescript, NextJS, SOLID, TypeORM, Jest**
 
 - 📫 How to reach me **thiago.pereira.araujosilva@gmail.con**
 
