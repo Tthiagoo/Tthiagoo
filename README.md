@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Petgram](https://github.com/Tthiagoo/Petgram)
 
-- 🌱 I’m currently learning **NextJS, SOLID, Jest, Clean Architecture**
+- 🌱 I’m currently learning **NextJS, Jest, Clean Architecture**
 
 - 📫 How to reach me **thiago.pereira.araujosilva@gmail.con**
 
