@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyNextEcommerce](https://github.com/Tthiagoo/MyNextEcommerce) and [Petgram](https://github.com/Tthiagoo/Petgram)
 
-- 🌱 I’m currently learning **NextJS, Jest, Clean Architecture, graphCMS, Stripe**
+- 🌱 I’m currently learning **Jest, Clean Architecture, graphCMS, Stripe**
 
 - 📫 How to reach me **thiago.pereira.araujosilva@gmail.con**
 
