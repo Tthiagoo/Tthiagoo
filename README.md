@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A passionate Front-End developer</h3>
+<h3 align="center">A passionate Front-End/Mobile developer</h3>
 
 - 🔭 I’m currently working on [MyNextEcommerce](https://github.com/Tthiagoo/MyNextEcommerce) and [Petgram](https://github.com/Tthiagoo/Petgram)
 
