@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyNextEcommerce](https://github.com/Tthiagoo/MyNextEcommerce)
 
-- 🌱 I’m currently learning **Jest, Clean Architecture, Storybook**
+- 🌱 I’m currently learning **Jest, Storybook**
 
 - 📫 How to reach me **thiago.pereira.araujosilva@gmail.con**
 
