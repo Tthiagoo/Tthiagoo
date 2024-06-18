@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyNextEcommerce](https://github.com/Tthiagoo/MyNextEcommerce)
 
-- 🌱 I’m currently learning **Jest, Storybook, Design System**
+- 🌱 I’m currently learning **Micro Frontend, AWS and Devops Technologies**
 
 - 📫 How to reach me **thiago.pereira.araujosilva@gmail.con**
 
